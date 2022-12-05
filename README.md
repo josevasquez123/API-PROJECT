@@ -10,7 +10,7 @@ Project Structure:
   - project: Endpoint for CRUD operations about project posts
   - user: Endpoint for Sign Up and Log In
 
-##How to Use
+## How to Use
 Clone this repository, install all libraries from requirements.txt and write the next line in root project cmd
 ```
 uvicorn main:app --reload
