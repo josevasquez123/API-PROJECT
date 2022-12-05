@@ -71,5 +71,11 @@ Examples:
   "value": "2022-12-05"
 }
 ```
+```
+{
+  "filter_tag": "project_name",
+  "value": "POKEMON"
+}
+```
 
 That's all, have fun and test all endpoints :smile:
