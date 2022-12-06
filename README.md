@@ -1,4 +1,7 @@
 # API-PROJECT
+
+API to create, read, update and delete project posts for each user previously logged, also has a fast searching by filter tags.
+
 Project Structure:
 - main: Main code for API
 - database: Store the databases
