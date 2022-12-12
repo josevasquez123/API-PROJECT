@@ -19,7 +19,7 @@ Clone this repository, install all libraries from requirements.txt and write the
 uvicorn main:app --reload
 ```
 ## Testing
-Type **http://127.0.0.1:8000/filter** in your browser (I used Google Chrome) and you will get this interface
+Type **http://127.0.0.1:8000/docs** in your browser (I used Google Chrome) and you will get this interface
 
 ![image](https://user-images.githubusercontent.com/55626381/205750077-c38bd037-273f-49ca-a914-22bd8b0e653d.png)
 
